@@ -1,0 +1,10 @@
+Talk_Tokyo.R#41
+==============
+
+Talk: 横浜でRの勉強会をはじめますた@Tokyo.R#41
+
+These are slides for a talk that I will give at `Tokyo.R#41`, in Tokyo, July, 2014.
+
+* * * 
+
+内容
