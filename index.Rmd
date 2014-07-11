@@ -30,7 +30,7 @@ output:
 
 <img src="https://dl.dropbox.com/s/yp27bdj1be4qqxi/yokohamar1-1.jpg" width=500 />
 
-## Yokohama.R の紹介{.columns-2}
+## Yokohama.R の紹介 {.columns-2}
 
 横浜国立大学<span class="blue3">**生態学分野**</span>の研究室で行っている、統計解析環境「R」を使う人向けのコミュニティ
 
@@ -50,16 +50,23 @@ Rを使いながら統計とか勉強する(・∀・)
 * 再現性のある研究、を可能にする
 * 研究発表、学術論文で使用できる図を作成する
 
-## Yokohama.R の特徴
+## Yokohama.R の特徴 {.columns-2}
 
 ### with GitHub
 
+* https://github.com/YokohamaR/yokohama.r
 * スライドや発表資料はすべてGitHubにて公開
 * スクリプトを共有する
 * issuesの活用
+
+![](https://github.com/YokohamaR/yokohama.r/wiki/src/images/github-yokohamar-capture.png)
+
+## Yokohama.R の特徴 {.columns-2}
 
 ### 生態学
 
 ## 今後の展望
 
-Yokohama.R#2... 
+パッケージの開発
+
+Yokohama.R#2... 参加者お待ちしております（難しいことはできません。
