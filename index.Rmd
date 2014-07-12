@@ -55,11 +55,22 @@ Rを使いながら統計とか勉強する
 * いろいろなスキル
     * RStudio, knitr, RMarkdown, LaTeX -> 楽しい👍
 * 統計解析（t検定からGLM, GAM, Bayesまで）
-* 「<span class="red3">悪</span><span class="green3">し</span><span class="blue3">き</span><span class="yellow3">窓</span>」から開放されよう
+* 「<span class="red3">悪</span><span class="green3">し</span><span class="blue3">き</span><span class="yellow3">窓</span>」から開放
+    * 表操作 -> それRでできるよ e.g. `dplyr`, `reshape`
+    * 文書作成 -> それRでできるよ e.g. `knitr`, `rmarkdown`
+    * プレゼンテーション作成 -> それRでできr(ry  e.g. `rmarkdown`
+
+```{r eval=FALSE, echo=FALSE}
+library(xkcd)
+datascaled <- data.frame(x=c(-3,3),y=c(-30,30))
+p <- ggplot(data=datascaled, aes(x=x,y=y)) + geom_point()
+p
+```
+
 
 ![](https://github.com/YokohamaR/yokohama.r/wiki/src/images/xkcd_xkcdmn.png)
 
-## Yokohama.R の特徴 | with GitHub {.columns-2}
+## Yokohama.R の特徴 | with GitHub （バージョン管理システム） {.columns-2}
 
 https://github.com/YokohamaR/
 
@@ -71,10 +82,10 @@ https://github.com/YokohamaR/
 
 ## さいごに
 
-ねんがんの<span class="blue3">Rコミュニティ</span>をてにいれたぞ！（自作自演）
+ねんがんの<span class="blue3">R勉強会</span>をてにいれたぞ！（自作自演）
 
-小さな・マニアックなRコミュニティ
+小さな・マニアックなR勉強会（研究室でも企業でも、趣味の集まりでも）
 
--> ネット内外でも活発な議論が生まれる、かも
+-> ネット内外でも活発な議論🚀が生まれる、かも
 
 Yokohama.R#2... 参加者お待ちしております（難しいことはできません。
